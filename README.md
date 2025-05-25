@@ -1,6 +1,6 @@
-# percentage error
-import java.util.Scanner;
-class calculator2
+       import java.util.Scanner;
+       class calculator2
+
 		
 		{
 			public static void main(String[] args) {
